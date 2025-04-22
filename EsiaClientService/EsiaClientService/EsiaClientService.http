@@ -1,0 +1,6 @@
+@EsiaClientService_HostAddress = http://localhost:5160
+
+GET {{EsiaClientService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
